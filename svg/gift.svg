@@ -1,0 +1,24 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="all_stacked (copy).svg"
+   id="svg2899"
+   viewBox="0 0 6.7021 13.579"
+   version="1.1"
+   height="13.579mm"
+   width="6.7021mm"><g xmlns="http://www.w3.org/2000/svg" transform="matrix(0.35278,0,0,-0.35278,-54.483,130.7)" id="g559">
+    <g clip-path="url(#clipPath1873)" id="g557">
+      <g transform="translate(164.52,352.95)" id="g551">
+        <path d="m 0,0 -0.581,-7.541 c 0,-0.002 -0.001,-0.003 -0.002,-0.002 h -0.001 l -5.744,4.922 c -1.61,1.38 -1.797,3.804 -0.417,5.415 1.38,1.61 3.804,1.797 5.415,0.417 C -0.37,2.388 0.083,1.172 0,0" id="path549"/>
+      </g>
+      <g transform="translate(169.68,350.33)" id="g555">
+        <path d="m 0,0 -5.743,-4.922 c -10e-4,-0.001 -0.003,-0.001 -0.003,0 -10e-4,10e-4 -10e-4,10e-4 -10e-4,0.002 L -6.328,2.621 C -6.491,4.736 -4.909,6.582 -2.794,6.745 -0.679,6.908 1.167,5.326 1.33,3.211 1.427,1.95 0.887,0.77 0,0" id="path553"/>
+      </g>
+    </g>
+  </g></svg>

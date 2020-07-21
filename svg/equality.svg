@@ -1,0 +1,44 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="all_stacked (copy).svg"
+   id="svg2899"
+   viewBox="0 0 6.7021 13.579"
+   version="1.1"
+   height="13.579mm"
+   width="6.7021mm"><g xmlns="http://www.w3.org/2000/svg" transform="translate(-34.997,-109.812)" id="g763">
+    <path d="m 38.472,119.13 h -0.37641 v -4.7311 H 38.472 Z" id="path727"/>
+    <path d="m 39.467,119.13 h -2.3668 v -0.45649 h 2.3668 z" id="path729"/>
+    <g transform="matrix(0.35278,0,0,-0.35278,40.178,114.08)" id="g733">
+      <path d="m 0,0 0.222,-1.043 -10.96,-2.33 -0.222,1.043 z" id="path731"/>
+    </g>
+    <g transform="matrix(0.35278,0,0,-0.35278,-72.439,292.96)" id="g745">
+      <g clip-path="url(#clipPath1375)" id="g743">
+        <g transform="translate(312.35,505.39)" id="g737">
+          <path d="M 0,0 C 0,0.832 0.674,1.506 1.506,1.506 2.338,1.506 3.013,0.832 3.013,0 3.013,-0.832 2.338,-1.506 1.506,-1.506 0.674,-1.506 0,-0.832 0,0" id="path735"/>
+        </g>
+        <g transform="translate(311.01,499.02)" id="g741">
+          <path d="m 0,0 c 0,-1.316 -1.067,-2.383 -2.383,-2.383 -1.316,0 -2.383,1.067 -2.383,2.383 z" id="path739"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(0.35278,0,0,-0.35278,36.404,115.26)" id="g749">
+      <path d="m 0,0 -2.288,-4.698 0.261,-0.356 3.67,-0.987 0.834,1.343 z m 0.01,-0.654 2.127,-4.032 -0.629,-1.012 -3.358,0.902 -0.094,0.128 z" id="path747"/>
+    </g>
+    <g transform="matrix(0.35278,0,0,-0.35278,-72.439,292.96)" id="g757">
+      <g clip-path="url(#clipPath1395)" id="g755">
+        <g transform="translate(321.83,501.48)" id="g753">
+          <path d="m 0,0 c 0,-1.316 -1.067,-2.383 -2.383,-2.383 -1.316,0 -2.383,1.067 -2.383,2.383 z" id="path751"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(0.35278,0,0,-0.35278,39.57,116.08)" id="g761">
+      <path d="M 0,0 -0.094,0.128 1.861,4.142 3.987,0.109 3.358,-0.902 Z m -0.438,0.097 0.261,-0.356 3.67,-0.986 0.834,1.342 -2.477,4.699 z" id="path759"/>
+    </g>
+  </g></svg>

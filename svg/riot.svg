@@ -1,0 +1,29 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="all_stacked (copy).svg"
+   id="svg2899"
+   viewBox="0 0 6.7021 13.579"
+   version="1.1"
+   height="13.579mm"
+   width="6.7021mm"><g xmlns="http://www.w3.org/2000/svg" transform="translate(-119.218,-128.339)" id="g1917">
+    <g transform="matrix(0.35278,0,0,-0.35278,121.65,135.44)" id="g1903">
+      <path d="M 0,0 -5.218,-2.591 -4.179,-3.196 9.324,1.743 10.435,3.22 Z" id="path1901"/>
+    </g>
+    <g transform="matrix(0.35278,0,0,-0.35278,120.99,137.88)" id="g1907">
+      <path d="M 0,0 4.469,15.981 9.783,0 8.744,0.726 4.432,11.174 0.531,-0.412 Z" id="path1905"/>
+    </g>
+    <g transform="matrix(0.35278,0,0,-0.35278,11.772,308.27)" id="g1915">
+      <g clip-path="url(#clipPath24862)" id="g1913">
+        <g transform="translate(314.07,495.21)" id="g1911">
+          <path d="m 0,0 c -3.397,0 -6.151,-2.499 -6.151,-5.581 0,-3.082 2.754,-5.581 6.151,-5.581 3.397,0 6.151,2.499 6.151,5.581 C 6.151,-2.499 3.397,0 0,0 m 0,-9.855 c -2.601,0 -4.71,1.914 -4.71,4.274 0,2.36 2.109,4.274 4.71,4.274 2.601,0 4.71,-1.914 4.71,-4.274 0,-2.36 -2.109,-4.274 -4.71,-4.274" id="path1909"/>
+        </g>
+      </g>
+    </g>
+  </g></svg>

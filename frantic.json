@@ -1,0 +1,712 @@
+[
+	{
+		"2ND CHANCE":{
+			"class":"special-card color-dependent",
+			"en":"The player has to play another card on top of “2nd Chance”. The same game rules apply (colour on colour, colourless Special Cards etc. ). If he cannot play a card from his hand, he has to draw one from the deck.",
+			"de":"Der Spieler muss auf diese Karte nochmals eine Karte legen. Dabei gelten dieselben Regeln wie im Spiel (Farbe auf Farbe, farbneutrale Spezialkarte, etc. ). Sofern der Spieler keine Karte aus seiner Hand legen kann, muss er eine Karte ziehen.",
+			"fr":"Le joueur doit poser encore une carte sur cette carte. Les mêmes règles de base s’appliquent (couleur sur couleur, carte spéciale multicolore, etc. ). Si le joueur ne peut pas jouer une des cartes de sa main, il doit en piocher une.",
+			"it":"Il giocatore deve calare su questa carta ancora un’altra carta. Le regole di gioco rimangono le stesse (colore su colore, carta speciale neutra, ecc. ). Se il giocatore non può calare nessuna delle carte che ha in mano deve prendere una carta dal mazzo."
+		}
+	},
+	{
+		"COLOUR SWAP":{
+			"class":"special-card color-dependent",
+
+			"en":"Can be played on two different colours. Hence, it changes from one colour to another. (e. g. if the red-green «Colour Swap» is played on green the game continues with red).",
+			"de":"Kann jeweils auf zwei verschiedene Farben gespielt werden. Es wird somit von der einen zur anderen Farbe gewechselt. (Wird z. B. rot-grün «Colour Swap» auf Grün gelegt, dann geht das Spiel mit Rot weiter).",
+			"fr":"Peut être posée sur deux couleurs différentes. Cette carte permet de changer d’une couleur à l’autre. (si la carte «Colour Swap» rouge-vert est posée sur du vert, alors la partie se poursuit avec du rouge).",
+			"it":"Si può giocare rispettivamente su due colori diversi. Si passa così da un colore all’altro. (se per es. la carta «Colour Swap» rosso-verde viene posata sul verde il gioco procede con il rosso)."
+		}
+	},
+	{
+		"EXCHANGE":{
+			"class":"special-card color-dependent",
+
+			"en":"The player of this card gives another player two cards of his choice from his hand and in exchange has to blindly draw two cards from his opponent. Exception: If the player of this card or his opponent holds less than two cards in their hands, then less cards are being exchanged (e. g. two cards against one). Should someone play this card as his last, he still has to draw two cards from an opponent.",
+			"de":"Der Urheber dieser Karte gibt einem Spieler seiner Wahl zwei Karten aus seiner Hand und zieht im Gegenzug verdeckt zwei Karten des anderen Spielers. Ausnahme: Wenn der Urheber oder der betreffende Spieler weniger als zwei Karten auf der Hand hält, so werden auch weniger Karten getauscht (z. B. zwei Karten gegen eine). Sollte ein Spieler diese Karte als letzte abwerfen, so muss er trotzdem zwei Karten eines Mitspielers ziehen.",
+			"fr":"Le détenteur de cette carte donne deux cartes de sa main à un joueur de son choix et, en contrepartie, il tire deux cartes de la main de ce même joueur (sans les regarder bien entendu). Exception: si le détenteur de cette carte ou le joueur concerné par l’échange a moins de deux cartes en main, alors on échange moins de cartes (p. ex. : deux cartes contre une). Si un joueur joue cette carte en dernier, alors il doit quand même tirer deux cartes chez un autre joueur.",
+			"it":"Il possessore di questa carta dà ad un giocatore a scelta due delle sue carte e prende in cambio due carte coperte dell’altro giocatore. Eccezione: se il possessore o il giocatore interessato ha meno di due carte in mano, è possibile scambiare anche meno carte (p. es. due carte con una). Se un giocatore tira questa carta per ultima, deve comunque prendere due carte da un giocatore."
+		}
+	},
+	{
+		"GIFT":{
+			"class":"special-card color-dependent",
+
+			"en":"The player of this card gives two cards from his hand to another player. Exception: If you only hold one card in your hand, you’re only able to give away one card. If “Gift“ is played as the last card the player still has to choose a target.",
+			"de":"Der Urheber dieser Karte gibt einem Mitspieler zwei Karten aus seiner Hand. Ausnahme: Sofern der Urheber nur noch eine Karte auf der Hand hält, kann er auch nur eine Karte weitergeben. Sollte «Gift» als letzte Karte gespielt werden, so muss dennoch ein Ziel definiert werden.",
+			"fr":"Le détenteur de cette carte donne deux de ses cartes à un autre joueur de son choix. Exception: si le détenteur de cette carte n’a plus qu’une seule carte en main, il ne peut en donner qu’une seule. Si «Gift» est la dernière carte jouée, il faut quand même définir un joueur cible.",
+			"it":"Il possessore di questa carta regala ad un altro giocatore due delle carte che ha in mano. Eccezione: se il possessore ha solo una carta in mano, può passare anche solo una carta. Se «Gift» viene giocata come ultima carta, il giocatore deve comunque stabilire un obiettivo."
+		}
+	},
+	{
+		"RECHARGE":{
+			"class":"special-card color-dependent",
+
+			"en":"-",
+			"de":"Wer «Recharge» spielt, darf eine vor sich lie gende, aufgedeckte Powerkarte wieder zudecken. Diese Powerkarte kann nun erneut benutzt werden. Wichtig: Diese Aktion ist nicht für Powerkarten möglich, die im selben Zug aktiviert werden.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"SKIP":{
+			"class":"special-card color-dependent",
+
+			"en":"The player of this card chooses a fellow player, who is suspended for one turn. Important: A player can only be skipped again, after he already suspended his last turn.",
+			"de":"Der Spieler, welcher diese Karte spielt, wählt einen Spieler aus, der beim nächsten Zug aussetzen muss. Wichtig: Ein Spieler kann erst wieder ausgelassen werden, wenn er bereits ausgesetzt hat.",
+			"fr":"Le joueur qui pose cette carte désigne un joueur qui devra passer son tour au prochain tour. Important: un joueur ne peut passer son tour que s’il a pu jouer une fois entre-deux, c’est-à-dire qu’il ne peut pas passer son tour deux fois de suite.",
+			"it":"Il giocatore che tira questa carta determina quale giocatore deve saltare il prossimo turno. Importante: un giocatore può essere saltato solo se è già rimasto fermo per un turno."
+		}
+	},
+	{
+		"THIEF":{
+			"class":"special-card color-dependent",
+
+			"en":"The player of «Thief» has to look into the cards of another player and steal two of his/her hand cards.",
+			"de":"Wer «Thief» spielt, muss einer beliebigen Person in die Handkarten schauen und dieser zwei Karten stehlen.",
+			"fr":"Qui joue une carte «Thief», doit regarder les cartes d’un joueur de son choix et lui en prendre deux.",
+			"it":"Chi gioca la carta «Thief» deve guardare le carte che tiene in mano una persona a scelta e rubargliene due."
+		}
+	},
+	{
+		"TROUBLEMAKER":{
+			"class":"special-card color-dependent",
+
+			"en":"Activates an Event.",
+			"de":"Es wird sofort eine Ereignis ausgelöst.",
+			"fr":"Cette carte déclenche immédiatement un événement.",
+			"it":"Viene subito attivato un evento."
+		}
+	},
+	{
+		"FANTASTIC":{
+			"class":"special-card color-independent",
+
+			"en":"“Fantastic” can be played on any card. You can choose a number or a colour.",
+			"de":"«Fantastic» kann auf jede Karte gespielt werden. Es kann entweder eine Zahl oder eine Farbe gewünscht werden.",
+			"fr":"La carte «Fantastic» peut être jouée sur n’importe qu’elle carte. On peut demander un chiffre ou une couleur.",
+			"it":"«Fantastic» può essere giocata su qualsiasi carta. È possibile richiedere un numero o un colore."
+		}
+	},
+	{
+		"FANTASTIC FOUR":{
+			"class":"special-card color-independent",
+
+			"en":"The player of this card chooses a person, who in return has to draw four cards from the deck. It is also possible to determine multiple players and divide the four cards between them.",
+			"de":"Der Urheber dieser Karte bestimmt eine Person, die vier Karten vom Stapel ziehen muss. Er hat aber auch die Möglichkeit, die vier Karten unter mehreren Spielern beliebig aufzuteilen.",
+			"fr":"Le détenteur de cette carte désigne une personne qui doit tirer quatre cartes de la pioche. Il peut aussi répartir ces quatre cartes entre plusieurs joueurs.",
+			"it":"Il possessore di questa carta decide quale persona debba prendere quattro carte dal mazzo. Ha però anche la possibilità di dividere le quattro carte tra diversi giocatori."
+		}
+	},
+	{
+		"COUNTERATTACK":{
+			"class":"special-card color-independent",
+
+			"en":"As soon as a Special Card is played against a player, this card can be thrown in instantly by the victim. The effect is cancelled and the player of “Counter-attack” can redirect it to another player. The target of the freshly obtained effect is freely choosable. The game round continues with the player of the initial Special Card. Important: It is also possible to forward or counter an attack that has already been redirected.",
+			"de":"Sobald eine Spezialkarte gegen einen Spieler eingesetzt wird, kann der Betroffene diese Karte reinwerfen. Der Angriff wird annulliert und der Urheber von «Counterattack» kann den entsprechenden Effekt selbst ausführen. Das Ziel ist dabei frei wählbar. Die Spielrunde geht danach bei dem Spieler weiter, der die gekonterte Spezialkarte gespielt hat. Wichtig: Es ist auch möglich einen bereits abgewehrten Angriff mit einem weiteren «Counterat-tack» erneut abzuwehren.",
+			"fr":"Dès qu’une carte spéciale est mise en jeu contre un joueur, le joueur concerné peut utiliser cette carte pour contre-attaquer. L’attaque est alors annulée et le détenteur de la carte «Counterattack» peut lui-même exécuter l’attaque de l’adversaire. A lui de choisir sa cible. La partie se poursuit avec le joueur ayant joué la carte spéciale. Important: il est possible de se défendre une nouvelle fois avec une autre carte «Counterattack», c’est-à-dire que l’on contre la contre-attaque!",
+			"it":"Non appena viene utilizzata una carta speciale contro un giocatore, l’interessato può lanciare questa carta come contrattacco. L’attacco viene annullato e chi ha tirato la carta «Counterattack» può eseguire lui stesso l’attacco a un avversario. La “vittima” può essere scelta a piacere. La partita riprende poi dal giocatore che ha tirato la carta speciale di contrattacco. Importante: è possibile difendersi nuovamente da un attacco già respinto con un’altra carta «Counterattack»."
+		}
+	},
+	{
+		"EDISON":{
+			"class":"special-card color-independent",
+
+			"en":"-",
+			"de":"Wer «Edison» spielt, darf eine Powerkarte zwi schen zwei beliebigen Spieler*innen austau schen. Beide getauschten Karten werden/bleiben nach dieser Aktion zugedeckt.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"EQUALITY":{
+			"class":"special-card color-independent",
+
+			"en":"The player of this card chooses a fellow player who holds fewer cards than himself in his hands. This player has to draw as many cards until their number of cards is equal.",
+			"de":"Der Urheber bestimmt einen Mitspieler der weniger Karten auf der Hand hält, als er selbst. Dieser muss seine Handkarten auf dieselbe Anzahl ergänzen.",
+			"fr":"Le détenteur de cette carte désigne un joueur ayant moins de cartes en main que lui-même. Celui-ci doit alors tirer autant de cartes que nécessaire pour arriver au même nombre de cartes.",
+			"it":"Il possessore di questa carta sceglie un giocatore che ha meno carte di lui in mano. Questo deve prendere tante carte quante sono necessarie per arrivare allo stesso numero."
+		}
+	},
+	{
+		"INEQUALITY":{
+			"class":"special-card color-independent",
+
+			"en":"The player of «Inequality» can choose a victim, which has to draw as many cards from him/her until it holds more cards in its hand.",
+			"de":"Wer «Inequality» spielt, kann ein Opfer bestimmen, welches so lange von ihm/ihr verdeckt Karten ziehen muss, bis dieses mehr Karten auf der Hand hält.",
+			"fr":"Qui joue une carte «Inequality», peut désigner une victime qui doit tirer autant de cartes (sans les regarder) chez le joueur ayant joué la carte «Inequality» jusqu’à ce que la victime ait plus de cartes que le joueur.",
+			"it":"Chi gioca la carta «Inequality» può puntare il dito contro una «vittima» che dovrà prendere da lui tante carte, senza guardarle, fino ad averne un numero maggiore in mano."
+		}
+	},
+	{
+		"LUCKY BASTARD":{
+			"class":"special-card color-independent",
+
+			"en":"This card can be thrown in right before an event is activated. The player of «Lucky Bastard» is then excluded from the event and its effect is not applied to him/her.",
+			"de":"Diese Karte kann vor dem Aufdecken einer Ereigniskarte reingeworfen werden. Wer «Lucky Bastard» spielt, ist vor dem Ereignis und seinem Effekt geschützt.",
+			"fr":"Cette carte peut être jouée avant qu’une carte Evénement soit retournée. Qui joue une carte «Lucky Bastard», est protégé de l’événement et de son effet.",
+			"it":"Questa carta può essere tirata prima di scoprire una carta evento. Chi gioca la carta «Lucky Bastard» è protetto dall’evento e dal suo effetto."
+		}
+	},
+	{
+		"NICE TRY":{
+			"class":"special-card color-independent",
+
+			"en":"As soon as a player got rid of all his hand cards and therefore ends the current round, this card can be thrown in immediately. Even if a player has just received this card (e. g. “Gift”). The player who ended the round then needs to draw three cards and the game round continues. Important: If multiple players finish off their cards (e. g. Event Card “Recession“) and “Nice Try“ is played, every player who finished has to draw three cards.",
+			"de":"Sobald ein Spieler alle seine Karten aus der Hand losgeworden ist und somit die Spielrunde beendet, kann diese Karte sofort reingeworfen werden. Selbst dann, wenn ein Spieler die Karte gerade erst erhalten hat (bspw. durch «Gift»). Der Spieler, der die Runde beendet hat, muss nun wieder drei Karten ziehen und die Spielrunde geht weiter. Wichtig: Wenn einer oder mehrere Spieler alle ihre Karten gleichzeitig aufgrund einer Ereigniskarte loswerden (bspw. «Recession»), so müssen bei Ausspielen der «Nice Try»-Karte alle Spieler, die keine Handkarten mehr haben, drei Karten ziehen.",
+			"fr":"Dès qu’un joueur s’est débarrassé de toutes ses cartes, et que la manche est donc terminée, cette carte peut être immédiatement jouée. Et ce même si un joueur vient de tirer cette carte (p. ex. : avec une carte «Gift»). Le joueur ayant terminé la manche doit alors tirer trois nouvelles cartes et la manche se poursuit. Important: si un ou plusieurs joueurs se débarrassent en même temps de toutes leurs cartes en raison d’une carte Événement (p. ex. : avec une carte «Recession»), alors tous les joueurs n’ayant plus de cartes en main doivent en tirer trois lorsque la carte «Nice Try» est jouée.",
+			"it":"Non appena un giocatore ha calato tutte le carte che ha in mano e ha quindi terminato una partita, è possibile giocare immediatamente questa carta. Anche se un giocatore l’ha appena ricevuta (p. es. tramite «Gift»). Il giocatore che ha terminato la partita deve quindi prendere di nuovo tre carte e la partita riprende. Importante: se uno o più giocatori si sono liberati contemporaneamente delle loro carte a seguito di una carta evento (per es. «Recession»), tutti quelli a mani vuote devono prendere di nuovo tre carte al lancio della carta «Nice Try»."
+		}
+	},
+	{
+		"SPECIAL FAVOURS":{
+			"class":"special-card color-independent",
+
+			"en":"The player of «Special Favours» can exchange all his special cards (everything except numeral cards) with another player.",
+			"de":"Wer «Special Favours» spielt, kann alle Spezialkarten (alles ausser Zahlenkarten) mit einem beliebigen Opfer tauschen.",
+			"fr":"Qui joue une carte «Special Favours», peut échanger toutes les cartes spéciales (tout sauf les cartes Chiffre) avec une victime de son choix.",
+			"it":"Chi gioca «Special Favours» può scambiare tutte le carte speciali (tutte tranne le carte numerate) con un giocatore a piacere."
+		}
+	},
+	{
+		"UPDATE":{
+			"class":"special-card color-independent",
+
+			"en":"-",
+			"de":"Wer «Update» spielt, zieht verdeckt eine Karte vom Powerkarten-Stapel und legt sie verdeckt vor sich ab. Man mischt danach eine seiner alten Powerkarten zurück in den Stapel. Dabei spielt es keine Rolle, ob diese Powerkarte bereits aktiviert wurde oder nicht.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"CURSE":{
+			"class":"special-card unique",
+			"en":"This card cannot be played or discarded. But it can be passed on or exchanged at any given opportunity. If a player holds this card at the end of a round, it counts as 13 points.",
+			"de":"Diese Karte kann nicht gespielt oder abgeworfen werden. Sie darf aber bei jeder Ge legenheit weiterverschenkt oder getauscht werden. Wenn jemand am Ende einer Runde im Besitz von «Curse» ist, so zählt diese Karte 13 Punkte.",
+			"fr":"Cette carte ne peut pas être jouée ou défaussée. Toutefois, elle peut être donnée ou échangée à tout moment. Si un joueur est en possession d’une carte «Curse» à la fin d’une manche, cette carte compte 13 points.",
+			"it":"Questa carta non può essere giocata o scartata. Può essere però regalata o scambiata ad ogni occasione. Se qualcuno alla fine di una partita tiene in mano la carta «Curse», questa vale 13 punti."
+		}
+	},
+	{
+		"FUCK YOU":{
+			"class":"special-card unique",
+			"en":"You can only dismiss the “Fuck You“ card, when you have exactly ten cards in your hand, including “Fuck You“. The round continues with the card played before “Fuck You“. Important: The “Fuck You“ card can only be blindly obtained by an opponent and not be willingly given. Exception: During Event Cards it can be thrown away or passed on.",
+			"de":"Wer «Fuck You» auf der Hand hält, darf sie nur ablegen, wenn er inkl. der «Fuck You»-Karte exakt zehn Karten auf der Hand hat. Die Runde geht mit der vor der «Fuck You»-Karte gespielten Karte weiter. Wichtig: Die «Fuck You»-Karte darf durch Spezialkarten nur vom Gegner verdeckt ergattert und nicht bewusst an einen Mitspieler weitergegeben werden. Ausnahme: Bei Ereigniskarten darf sie weitergegeben oder abgelegt werden.",
+			"fr":"Le joueur ayant la carte «Fuck You» en main ne peut la poser que si, en plus de la carte «Fuck You», il a très exactement dix cartes en main. La manche se poursuit avec la carte jouée avant la carte «Fuck You». Important: la carte «Fuck You» ne peut être acquise par l’adversaire que de manière cachée et elle ne peut pas être remise volontairement à un autre joueur. Exception: elle peut être transmise ou posée avec quelques cartes Événement particulières.",
+			"it":"La carta «Fuck You» può essere calata solo se si hanno in mano esattamente dieci carte, carta «Fuck You» compresa. La partita continua con la carta giocata prima di «Fuck You». Importante: la carta «Fuck You» può essere presa dall’avversario solo coperta e non può essere passata apposta a un altro giocatore. Eccezione: può essere passata o calata a seguito di determinate carte degli eventi."
+		}
+	},
+	{
+		"MIMICRY":{
+			"class":"special-card unique",
+			"en":"When being played, «Mimicry» can become any existing Special Card. Important: If «Mimicry» imitates a coloured Special Card it can only be played on said colour (e. g. red «Gift» card on red).",
+			"de":"Wer «Mimicry» ausspielt, kann damit jede bestehende Spezialkarte imitieren. Wichtig: Übernimmt «Mimicry» die Funktion einer farbabhängigen Spezialkarte, so kann diese nur auf die jeweilige Farbe gespielt werden (z. B. rote «Gift»-Karte auf Rot).",
+			"fr":"Qui joue une carte «Mimicry», peut imiter toutes les cartes spéciales existantes. Important: si la carte «Mimicry» reprend la fonction d’une carte spéciale qui dépend d’une couleur, alors elle ne peut être posée que sur une carte de la couleur correspondante (p. ex. carte rouge «poison» sur une carte rouge).",
+			"it":"Chi tira «Mimicry» può imitare una qualsiasi carta speciale esistente. Importante: se «Mimicry» assume la funzione di una carta speciale dipendente dal colore, può essere giocata solo sul rispettivo colore (p. es. carta «Gift» rossa sul rosso)."
+		}
+	},
+	{
+		"THE END":{
+			"class":"special-card unique",
+			"en":"-",
+			"de":"Diese Karte kann nur als letzte Handkarte ausgespielt, aber dafür auf jede beliebige Karte gelegt werden. Falls jemand mit «The End» das Spiel beendet, kann «Nice Try» nicht gespielt werden. Ausserdem werden sämtliche aktiven Ereignisse (z. B. Time Bomb, Last Chance etc. ) abgebrochen und ignoriert. «The End» darf während einer Spielrunde jederzeit getauscht oder verschenkt werden. Sie zählt am Ende einer Runde 17 Punkte. Wichtig: «Mimicry» kann diese Karte nicht imi tieren. Es können bei dieser Karte keine Powerkarten aktiviert werden.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"BLACK HOLE":{
+			"class":"event-card",
+			"en":"All Black Cards in the hands of the players go to the player of the Black Card.",
+			"de":"Wer das Ereignis ausgelöst hat, erhält alle in den Händen der Mitspieler*innen vorhandenen Schwarzen Karten.",
+			"fr":"Le joueur ayant déclenché l’événement, reçoit toutes les cartes noires que les autres joueurs ont en main.",
+			"it":"Chi ha scatenato l’evento, riceve tutte le carte nere tenute in mano dagli altri giocatori."
+		}
+	},
+	{
+		"BLACK JACK":{
+			"class":"event-card",
+			"en":"-",
+			"de":"Der Reihe nach decken die Spieler*innen jeweils die oberste Karte vom Nachziehstapel auf, legen sie auf einen separaten Stapel und addieren laut die Punkte der aufgedeckten Karten. Die Person, die mit ihrer aufgedeckten Karte den totalen Punktewert von 21 überschreitet, muss sämtliche aufgedeckten Karten auf die Hand nehmen.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"CAPITALISM":{
+			"class":"event-card",
+			"en":"He that has plenty of goods shall have more. All players double their hand cards.",
+			"de":"Wer hat, dem wird gegeben. Alle Spieler*innen verdoppeln ihre Handkarten.",
+			"fr":"Celui qui a quelque chose, en aura encore plus! Tous les joueurs doublent le nombre de cartes qu’ils ont en main.",
+			"it":"Chi più ha, più riceve. Tutti i giocatori raddoppiano le loro carte."
+		}
+	},
+	{
+		"CHARITY":{
+			"class":"event-card",
+			"en":"Every player has to pick one card from the player with the most hand cards. Important: If two or more players have an equal amount of most cards, cards are picked from all of them. These players don’t have to draw cards from each other.",
+			"de":"Jeder Spieler zieht vom Mitspieler mit den meisten Karten auf der Hand eine Karte. Wichtig: Bei Kartengleichstand wird von allen Spielern mit den meisten Karten je eine gezogen. Sofern mehrere Spieler die meisten Karten besitzen, müssen diese nicht voneinander eine Karte ziehen.",
+			"fr":"Chaque joueur tire une carte du jeu du joueur ayant le plus de cartes. Important: en cas d’égalité de cartes, les joueurs tirent une carte chez tous les joueurs ayant le plus de cartes. Si plusieurs joueurs ont le plus grand nombre de cartes en main, ils ne tirent pas de carte entre eux.",
+			"it":"Ogni giocatore prende una carta da quello con il maggior numero di carte in mano. Importante: in caso di equità di carte, si deve prendere una carta da ogni giocatore con il maggior numero di carte. Se sono più giocatori ad avere il maggior numero di carte, questi non devono prendersi reciprocamente una carta."
+		}
+	},
+	{
+		"CHARGENADO":{
+			"class":"event-card",
+			"en":"-",
+			"de":"Alle auf dem Tisch liegenden Powerkarten werden zurück in den Powerkarten-Stapel ge mischt. Anschliessend erhalten alle Spieler*innen zwei neue Powerkarten verdeckt vom Stapel.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"COMMUNISM":{
+			"class":"event-card",
+			"en":"Everyone has to draw as many cards to equal the player, who holds the most cards in his hand.",
+			"de":"Alle Spieler müssen ihre Handkarten auf die gleiche Anzahl wie der Spieler mit meisten Handkarten ergänzen.",
+			"fr":"Tous les joueurs doivent piocher autant de cartes que nécessaire pour en avoir autant que le joueur ayant le plus de cartes.",
+			"it":"Tutti i giocatori devono prendere tante carte quante sono necessarie per essere al paro del giocatore con il maggior numero di carte."
+		}
+	},
+	{
+		"CROWDFUNDING":{
+			"class":"event-card",
+			"en":"Every player has to give one card to the player with the least hand cards. Important: If two or more players have an equal amount of least cards, cards are given to all of them. These players don’t have to give cards to each other.",
+			"de":"Jeder muss der Person mit den wenigsten Handkarten eine Karte schenken. Wichtig: Bei Kartengleichstand wird allen Spieler*innen mit den wenigsten Karten je eine geschenkt. Sofern mehrere Spieler*innen die wenigsten Karten besitzen, müssen sich diese nicht gegenseitig eine Karte schenken.",
+			"fr":"Chaque joueur doit donner une carte à la personne ayant le moins de cartes à la main. Important: en cas d’égalité, tous les joueurs ayant le moins de cartes reçoivent une carte. Si plusieurs joueurs possèdent le moins de cartes, ils ne doivent pas s’offrir de carte entre eux.",
+			"it":"Ognuno deve regalare una carta alla persona con meno carte in mano. Importante: in caso di parità di carte, viene regalata una carta ad ognuno dei giocatori con meno carte. Se sono più giocatori ad avere il minor numero di carte, questi non devono regalarsi reciprocamente una carta."
+		}
+	},
+	{
+		"DISTRIBUTOR":{
+			"class":"event-card",
+			"en":"All players give their hand cards in a small deck face down to the player of the Black Card, who can look at each small deck and distribute them between the players, without shuffling them. The player of the Black Card has to distribute his/her hand cards as well and keep a deck from another player. (E. g. Player A gets the cards of player B, player B the ones from player C etc. )",
+			"de":"Alle Spieler*innen legen ihre Handkarten als Stapel verdeckt vor die Person, welche das Ereignis ausgelöst hat. Diese schaut sich alle Kartendecks an und verteilt sie neu an die Mitspieler*innen ohne sie zu vermischen. Diese Person darf dabei ihre eigenen Handkarten nicht behalten. (Somit erhält z. B. Spielerin A die Karten von Spieler B, B die von C etc. )",
+			"fr":"Tous les joueurs posent les cartes qu’ils ont en main, face cachée, devant le joueur ayant déclenché l’événement. Celui-ci jette un coup d’œil à toutes les cartes et les redistribue aux autres joueurs, sans les mélanger. Ce faisant, ce joueur ne peut pas conserver ses propres cartes. (Ainsi, le jouer A reçoit par exemple les cartes du jouer B, le jouer B du joueur C et ainsi de suite).",
+			"it":"Tutti i giocatori posano le carte che hanno in mano in un mazzo davanti alla persona che ha innescato l’evento. Questo si guarda tutti i mazzi di carte e li distribuisce di nuovo a giocatori diversi senza mescolarle. Questa persona non può continuare a tenere le proprie carte in mano. (in questo modo il giocatore A riceve le carte del giocatore B, il giocatore B quelle di C ecc. )"
+		}
+	},
+	{
+		"DOOMSDAY":{
+			"class":"event-card",
+			"en":"The game round is immediately over. Every player receives 50 points.",
+			"de":"Die Spielrunde ist sofort beendet. Alle Spieler erhalten 50 Punkte.",
+			"fr":"La manche est immédiatement terminée. Tous les joueurs obtiennent 50 points.",
+			"it":"La partita termina subito. Tutti i giocatori ottengono 50 punti."
+		}
+	},
+	{
+		"DOUBLE TAXATION":{
+			"class":"event-card",
+			"en":"The player who holds the least points with the three highest cards has to draw one card, the player with the second least points has to draw 2 and so on. In case of equal score the affected players have to draw the equal amount of cards.",
+			"de":"Alle Spieler*innen müssen die Punkte ihrer drei höchsten Handkarten zusammenzählen. Diese werden dem Kontostand umgehend angerechnet. Das Spiel geht danach normal weiter.",
+			"fr":"Tous les joueurs doivent additionner les points de leurs trois cartes à la valeur la plus élevée. Celles-ci seront immédiatement additionnées aux points de chaque joueur. Le jeu se poursuit normalement.",
+			"it":"Tutti i giocatori devono contare il punteggio delle tre carte più alte che tengono in mano. I punti vengono aggiunti subito al conto. Il gioco prosegue poi normalmente."
+		}
+	},
+	{
+		"EARTHQUAKE":{
+			"class":"event-card",
+			"en":"Every player gives his cards to the player to his right.",
+			"de":"Jeder Spieler gibt seine Handkarten dem Spieler rechts von ihm weiter.",
+			"fr":"Chaque joueur donne ses cartes à son voisin de droite.",
+			"it":"Ogni giocatore dà le carte che tiene in mano al giocatore alla sua destra."
+		}
+	},
+	{
+		"EPIC FAIL":{
+			"class":"event-card",
+			"en":"-",
+			"de":"Die Person mit den wenigsten Handkarten erhält sofort die «Fuck You»-Karte, egal wo sich diese gerade befindet. Falls nötig, wird die «Fuck You»-Karte aus dem Nachziehstapel oder dem Ablagestapel herausgesucht. Der Nachziehstapel wird gegebenenfalls neu gemischt.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"EVENT MANAGER":{
+			"class":"event-card",
+			"en":"The next three Event Cards from the deck are flipped over. The player of the Black Card then chooses one of these events which will be executed.",
+			"de":"Es werden die obersten drei Karten vom Ereigniskarten-Stapel aufgedeckt. Die Person, die das Ereignis ausgelöst hat, wählt eines dieser Ereignisse aus, welches dann ausgeführt wird.",
+			"fr":"Les trois premières cartes de la pile de cartes Evénement sont retournées. La personne qui a déclenché l’événement sélectionne l’un de ces événements, qui est ensuite exécuté.",
+			"it":"Si scoprono le tre carte superiori del mazzo degli eventi. La persona che ha provocato l’evento sceglie uno degli eventi da eseguire."
+		}
+	},
+	{
+		"EXPANSION":{
+			"class":"event-card",
+			"en":"The players have to draw cards from the deck accordingly: The 1st player draws one card, the 2nd draws two, the 3rd three and so on.",
+			"de":"Der Reihe nach ziehen die Spieler Karten vom Kartenstapel. Der erste Spieler zieht eine Karte, der zweite Spieler zieht zwei Karten, der Dritte drei und so weiter.",
+			"fr":"Chaque joueur pioche des cartes. Le premier joueur en pioche une, le deuxième deux, le troisième trois et ainsi de suite.",
+			"it":"A turno i giocatori prendo carte dal mazzo di gioco. Il primo giocatore prende una carta, il secondo due carte, il terzo tre carte e così via."
+		}
+	},
+	{
+		"FINISH LINE":{
+			"class":"event-card",
+			"en":"The game round is immediately over and the players count their points according to their hand cards.",
+			"de":"Die Spielrunde ist sofort beendet und die Spieler zählen die Punkte, die sie auf der Hand halten.",
+			"fr":"La manche est immédiatement terminée et tous les joueurs font le décompte de leurs points.",
+			"it":"La partita termina immediatamente e ogni giocatore conta i punti delle carte che tiene in mano."
+		}
+	},
+	{
+		"FRIDAY THE 13TH":{
+			"class":"event-card",
+			"en":"It’s Friday, the Thirteenth. A hook-handed murderer is among us!But just in the movies, it’s a totally boring, normal Friday, nothing weird happens. The game round continues without further ado.",
+			"de":"Es ist Freitag der Dreizehnte. Ein Massenmörder mit Hockey-Maske geht um... Aber nur im Film, denn es ist ein ganz normaler Freitag an dem nichts Aussergewöhnliches geschieht. Die Runde geht normal weiter.",
+			"fr":"C’est vendredi 13!!! Un tueur en série portant un masque de hockey est en liberté... Mais on n’est pas au cinéma!!! Et oui, c’est un vendredi comme un autre et il ne se passe rien de spécial. Le tour se poursuit normalement.",
+			"it":"È venerdì tredici. Un pluriomicida con una maschera da Hockey si sta aggirando... Ma solo nel film, perchè è un normalissimo venerdì in cui non succede niente di eccezionale. La partita prosegue normalmente."
+		}
+	},
+	{
+		"GAMBLING MAN":{
+			"class":"event-card",
+			"en":"Every player has to place a preferably low Numeral Card of the last played colour face down. All cards are simultaneously turned around. The player with the highest digit has to take the other cards in. Players without Numeral Cards of said colour have to draw two cards as penalty. Important: If no colour has been played so far, the event is ineffective.",
+			"de":"Alle Spieler müssen von der zuletzt gespielten Farbe eine möglichst tiefe Zahlenkarte verdeckt auf den Tisch legen. Alle Karten werden gleichzeitig aufgedeckt. Der Spieler, welcher die höchste Zahl gespielt hat, muss alle Karten in seine Hand aufnehmen. Spieler, welche keine Zahlenkarte dieser Farbe auf der Hand halten, müssen zur Strafe zwei Karten ziehen. Ausnahme: Sofern noch keine Farbe gespielt wurde, ist das Ereignis wirkungslos.",
+			"fr":"Tous les joueurs doivent poser sur la table, face cachée, une carte numérotée la plus faible possible de la même couleur que la dernière carte jouée. Toutes les cartes sont ensuite retournées en même temps. Le joueur ayant joué la carte avec la valeur la plus élevée récupère toutes les autres cartes retournées. Les joueurs n’ayant pas de carte de cette couleur sont pénalisés et doivent en piocher deux! Exception: si aucune couleur n’a encore été jouée, cette carte Événement n’a aucun effet.",
+			"it":"Tutti i giocatori devono posare sul tavolo una carta numerata coperta nel colore della carta giocata in precedenza con il valore più basso possibile. Tutte le carte vengono scoperte contemporaneamente. Il giocatore che ha giocato il numero più alto deve prendersi tutte le carte. I giocatori che non hanno una carta numerata di questo colore devono prendere per punizione due carte dal mazzo. Eccezione: se non è stato giocato ancora alcun colore, l’evento non ha nessun effetto."
+		}
+	},
+	{
+		"IDENTITY THEFT":{
+			"class":"event-card",
+			"en":"The player with the lowest amount of points swaps the score with the player who holds the most points.",
+			"de":"Wer die meisten Punkte auf dem Konto hat, tauscht den eigenen Punktestand mit der Person, welche am wenigsten Punkte auf dem Konto hat.",
+			"fr":"Le joueur ayant le plus grand nombre de points sur son compte, échange son état de compte avec le joueur ayant le moins de points sur son compte.",
+			"it":"Chi ha il maggior numero di punti sul suo conto, scambia il suo punteggio con quello del giocatore che ha il punteggio minore."
+		}
+	},
+	{
+		"LAST CHANCE":{
+			"class":"event-card",
+			"en":"Every time a player has discarded the last card an event is activated as a last resort.",
+			"de":"Jedes Mal wenn jemand die letzte Handkarte loswird, wird noch ein Ereignis ausgelöst.",
+			"fr":"A chaque fois qu’un joueur se débarrasse de sa dernière carte en main, un événement est dé-clenché.",
+			"it":"Ogni vola che qualcuno si è sbarazzato della sua ultima carta, viene attivato un evento."
+		}
+	},
+	{
+		"LOOT":{
+			"class":"event-card",
+			"en":"-",
+			"de":"Der Reihe nach ziehen alle Spieler*innen 3 Handkarten verdeckt von der Person rechts von ihnen. Gezogene Karten werden erst nach dem Ereignis auf die Hand genommen.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"MARKET":{
+			"class":"event-card",
+			"en":"As many cards as there are players, the top cards from the deck are turned face up in front of the players. The players then pick in turn one card to take in their hands.",
+			"de":"Es werden so viele Karten, wie Spieler anwesend sind, vom Kartenstapel aufgedeckt. Dann müssen die Spieler der Reihe nach eine dieser Karten auf die Hand nehmen.",
+			"fr":"On retourne autant de cartes de la pioche qu’il y a de joueurs. Ensuite, chaque joueur prend une de ces cartes (dans le sens du jeu).",
+			"it":"Si devono scoprire dal mazzo tante carte quanti sono i giocatori presenti. I giocatori devono poi prendere a turno una di queste carte."
+		}
+	},
+	{
+		"MATING SEASON":{
+			"class":"event-card",
+			"en":"Every combination that can be achieved with Numeral Cards have to be disposed of. Combinations would be pairs, three of a kind, four of a kind and so on. The colour of the cards doesn’t matter.",
+			"de":"Alle Spieler müssen sämtliche Zahlenkarten-Kombinationen, die sie auf der Hand halten, abwerfen. Als Kombinationen gelten Paare, Drillinge, Vierlinge usw. Die Farbe der Karten spielt dabei keine Rolle.",
+			"fr":"Tous les joueurs doivent se débarrasser de toutes les combinaisons de cartes numérotées qu’ils ont en main. Sont considérés comme des combinaisons: des paires, des triplés, quatre cartes identiques, etc. La couleur des cartes ne joue aucun rôle.",
+			"it":"Tutti i giocatori devono sbarazzarsi di tutte le combinazioni di carte numeriche che tengono in mano. Sono considerate combinazioni le coppie, le carte triple, quadruple ecc. Il colore delle carte non gioca alcun ruolo."
+		}
+	},
+	{
+		"MERRY CHRISTMAS":{
+			"class":"event-card",
+			"en":"Every player has to give all of their hand cards to other players. They can divide them as they please.",
+			"de":"Alle Spieler müssen sämtliche Handkarten unter den Mitspielern verschenken. Die Karten können beliebig aufgeteilt werden.",
+			"fr":"Tous les joueurs doivent offrir toutes leurs cartes en main aux autres joueurs. Les cartes peuvent être réparties selon l’envie.",
+			"it":"Tutti i giocatori devono regalare tutte le carte che hanno in mano agli altri. Le carte possono essere suddivise a piacere."
+		}
+	},
+	{
+		"MEXICAN STANDOFF":{
+			"class":"event-card",
+			"en":"All players dispose of their cards and draw in turn three new cards from the deck.",
+			"de":"Alle Spieler verwerfen ihre Handkarten und ziehen der Reihe nach drei Karten vom Stapel.",
+			"fr":"Tous les joueurs se débarrassent de leurs cartes et en piochent trois nouvelles (dans le sens du jeu).",
+			"it":"Tutti i giocatori calano le carte che hanno in mano e prendono a turno tre carte dal mazzo."
+		}
+	},
+	{
+		"PARASITE":{
+			"class":"event-card",
+			"en":"-",
+			"de":"Sobald jemand die Runde gewinnt, darf die Person links von ihm/ihr zwei beliebige Handkarten abwerfen, bevor die Punkte gezählt werden.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"PLAGUE":{
+			"class":"event-card",
+			"en":"There are immediately two additional event cards executed, one after the other. Even if the first event would end the current round or a player has discarded all cards, the second event will be executed as well as possible.",
+			"de":"Es werden sofort zwei weitere Ereigniskarten der Reihe nach ausgeführt. Auch wenn die erste Ereigniskarte die Runde beenden sollte oder jemand alle Karten loswird, wird das zweite Ereignis noch so gut wie möglich ausgeführt.",
+			"fr":"Deux autres cartes Evénements sont immédiatement exécutées l’une après l’autre. Même si la première carte événement termine le tour ou si un joueur se débarrasse de toutes les cartes, le second événement est exécuté dans la mesure du possible.",
+			"it":"Vengono eseguite subito due carte evento una dopo l’altra. Anche se la prima carta evento dovesse terminare la partita oppure qualcuno dovesse sbarazzarsi di tutte le carte, anche il secondo evento sarà eseguito nel possibile."
+		}
+	},
+	{
+		"PLUS ONE":{
+			"class":"event-card",
+			"en":"New rule for the rest of the round: Every time the players have to draw cards from the card deck, they have to draw one more.",
+			"de":"Für die aktuelle Runde gilt: Jedes Mal, wenn jemand Karten vom Stapel zieht, muss zu sätzlich eine weitere Karte gezogen werden.",
+			"fr":"A appliquer pour le tour en cours: à chaque fois qu’un joueur tire des cartes de la pioche, une carte supplémentaire doit être tirée.",
+			"it":"Per la partita attuale vale quanto segue: ogni volta che qualcuno prende una carta dal mazzo, deve prenderne un’altra in aggiunta."
+		}
+	},
+	{
+		"RECESSION":{
+			"class":"event-card",
+			"en":"The players have to dispose of cards from their hands accordingly: The 1st player has to dispose of one card, the 2nd disposes of two, the 3rd of three and so on.",
+			"de":"Der Reihe nach verwerfen die Spieler Karten aus ihrer Hand. Der erste Spieler verwirft eine Karte, der zweite Spieler verwirft zwei Karten, der Dritte drei und so weiter.",
+			"fr":"Chaque joueur peut se débarrasser de cartes. Le premier joueur se débarrasse d’une carte, le deux-ième de deux, le troisième de trois et ainsi de suite.",
+			"it":"I giocatori tirano a turno le carte che hanno in mano. Il primo giocatore tira una carta, il secondo due carte, il terzo tre carte e così via."
+		}
+	},
+	{
+		"REPEAT":{
+			"class":"event-card",
+			"en":"The player of the Black Card has to execute an event that has already been uncovered. Important: If no other event has been uncovered so far, the event is ineffective.",
+			"de":"Wer die Schwarze Karte gespielt hat, muss ein Ereignis erneut ausführen, welches bereits aufgedeckt wurde. Wichtig: Falls noch keine Ereigniskarte aufgedeckt wurde, ist das Ereignis wirkungslos.",
+			"fr":"Le joueur ayant joué la carte noire, doit exécuter une nouvelle fois un événement qui a déjà été retourné auparavant. Important: si aucune carte Evénement n’a été retournée jusqu’à présent, l’événement n’a aucun effet.",
+			"it":"Chi ha giocato la carta nera, deve eseguire di nuovo un evento che è già stato scoperto. Importante: se non è stata ancora girata una carta evento, questa carta non ha alcun effetto."
+		}
+	},
+	{
+		"REWIND":{
+			"class":"event-card",
+			"en":"-",
+			"de":"Der Reihe nach zieht jede*r Spieler*in die jeweils oberste Karte vom Ablagestapel bis alle total 2 Karten gezogen haben. Anschliessend wird die oberste Karte vom Nachziehstapel aufgedeckt. Auf diese Karte wird nun weitergespielt. Wichtig: Handelt es sich bei der nachträglich aufgedeckten Karte um eine Spezialkarte, kann die Person, die das Ereignis ausgelöst hat, den Effekt ausführen.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"RIOT":{
+			"class":"event-card",
+			"en":"-",
+			"de":"Alle Spieler*innen geben ihre Spezialkarten an die Person rechts von ihnen weiter. Erhaltene Spezialkarten werden erst nach dem Ereignis auf die Hand genommen.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"ROBIN HOOD":{
+			"class":"event-card",
+			"en":"The player with the smallest amount of hand cards swaps his cards with the player who holds the most.",
+			"de":"Der Spieler mit den wenigsten Karten muss seine Handkarten mit dem Spieler mit den meisten Karten tauschen.",
+			"fr":"Le joueur ayant le moins de cartes doit échanger ses cartes avec le joueur ayant le plus de cartes.",
+			"it":"Il giocatore con il minor numero di carte deve scambiarle con il giocatore che ha il maggior numero di carte in mano."
+		}
+	},
+	{
+		"RUSSIAN ROULETTE":{
+			"class":"event-card",
+			"en":"All players put one card from their hand together. These cards get shuffled and put on top of the card deck and the game continues.",
+			"de":"Alle Spieler*innen müssen je eine beliebige Karte aus ihrer Hand zusammenlegen. Diese werden gemischt und auf den Kartenstapel gelegt. Das Spiel geht danach normal weiter.",
+			"fr":"Tous les joueurs doivent prendre n’importe quelle carte de leur main. Celles-ci sont mélangées et placées sur la pile de cartes. La partie se poursuit normalement.",
+			"it":"Tutti i giocatori devono calare insieme una carta a piacere tra quelle tenute in mano. Le carte vengono mescolate e posate sul mazzo di gioco. Il gioco prosegue poi normalmente."
+		}
+	},
+	{
+		"SEPPUKU":{
+			"class":"event-card",
+			"en":"The players decide in turn if they want to commit Seppuku. If they risk it, they have to draw the top card from the card deck. If it is a numeral card they get credited 21 points, if it’s any other card they get an additional 42 points. If they decide not to commit Seppuku then they get 21 additional points.",
+			"de":"Die Spieler*innen entscheiden sich der Reihe nach, ob sie Seppuku begehen wollen. Wer dies riskiert, deckt die oberste Karte vom Stapel auf. Ist diese Karte eine Zahlenkarte, werden sogleich 21 Punkte vom Punktekonto abgezogen. Sollte es eine andere Karte sein, werden zusätzliche 42 Punkte aufgebrummt. Wer sich dazu entscheidet, es nicht zu riskieren, erhält 21 Punkte.",
+			"fr":"Les joueurs décident l’un après l’autre, s’ils veulent commettre le Seppuku. Celui qui prend ce risque retourne la première carte de la pile. S’il s’agit d’une carte avec un chiffre, 21 points sont immédiatement déduits du compte de points. S’il s’agit d’une autre carte, 42 points supplémentaires seront ajoutés. Celui qui décide de ne pas prendre le risque de commettre le Seppuku obtient 21 points.",
+			"it":"I giocatori decidono a turno se vogliono inoltrarsi nel Seppuku. Chi decide di rischiare, scopre la prima carta del mazzo. Se è una carta numerata, gli vengono sottratti subito 21 punti dal suo conto. Se si tratta di una carta diversa, gli vengono appioppati 42 punti. Chi decide di non rischiare, riceve 21 punti."
+		}
+	},
+	{
+		"SUPERCHARGE":{
+			"class":"event-card",
+			"en":"-",
+			"de":"Alle Mitspielenden erhalten verdeckt eine zusätz liche Powerkarte.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"SURPRISE PARTY":{
+			"class":"event-card",
+			"en":"Every player must give one of their cards to a player of their choosing.",
+			"de":"Jeder Spieler muss einer Person seiner Wahl eine Karte aus seiner Hand schenken.",
+			"fr":"Chaque joueur donne une carte de son choix à un joueur de son choix.",
+			"it":"Ogni giocatore deve regalare a una persona a sua scelta una delle sue carte."
+		}
+	},
+	{
+		"THE ALL-SEEING EYE":{
+			"class":"event-card",
+			"en":"Every player has to show their cards. The cards are exposed until every player gives his OK to continue.",
+			"de":"Alle Spieler müssen ihre Karten offen auslegen. Die Karten bleiben so lange aufgedeckt, bis alle Spieler ihr O. K. geben, sie wieder aufzunehmen und weiter zu spielen.",
+			"fr":"Tous les joueurs doivent poser leurs cartes, face visible, sur la table. Les cartes restent visibles de tous jusqu’à ce que tous les joueurs soient d’accord de les reprendre en main et de poursuivre la partie.",
+			"it":"Tutti i giocatori devono scoprire le loro carte. Le carte restano scoperte fino a quando tutti i giocatori sono d’accordo per riprenderle in mano e continuare a giocare."
+		}
+	},
+	{
+		"THIRD TIME LUCKY":{
+			"class":"event-card",
+			"en":"Every player has to draw three cards.",
+			"de":"Alle Spieler ziehen drei Karten.",
+			"fr":"Tous les joueurs tirent trois cartes.",
+			"it":"Tutti i giocatori pescano tre carte."
+		}
+	},
+	{
+		"TIME BOMB":{
+			"class":"event-card",
+			"en":"Every player has only three turns left. The round ends when a player would reach his fourth turn. If a player can dispose of all his cards before the fourth turn, he gets credited ten points. The other players get a penalty of ten points. If no one is able to diffuse the bomb, the round is over and the points in this round get doubled",
+			"de":"Nur noch drei Züge pro Spieler. Die Runde wird sofort beendet, sobald ein Spieler zum vierten Mal an die Reihe kommen würde. Sollte ein Spieler vor Ablauf dieser Zeit alle Karten loswerden, so bekommt er zehn Punkte abgezogen. Alle anderen kassieren eine Strafe von zehn Punkten, zusätzlich zu den Karten auf der Hand. Wenn aber keiner während dieser Frist die Runde beenden kann, zählen alle Punkte doppelt.",
+			"fr":"Plus que trois tours par joueur! La manche est immédiatement terminée lorsqu’un joueur devrait jouer son quatrième tour. Si un joueur parvient à se débarrasser de toutes ses cartes avant cette échéance, il peut déduire 10 points de son score final. Tous les autres joueurs reçoivent 10 points supplémentaires de pénalité, et ce en plus des points des cartes qu’ils ont en main. Si aucun joueur ne peut se débarrasser de toutes se cartes avant l’échéance, alors tous les points comptent double.",
+			"it":"Rimangono solo tre mosse per ogni giocatore. La partita viene interrotta immediatamente non appena un giocatore dovrebbe raggiungere il suo quarto turno. Se un giocatore dovesse sbarazzarsi di tutte le sue carte prima dello scadere del tempo, gli vengono sottratti dieci punti. Tutti gli altri ricevono una multa di dieci punti da aggiungere a quelli delle carte che hanno in mano. Se però nessuno riesce a terminare la partita entro questo termine, tutti i punti valgono il doppio."
+		}
+	},
+	{
+		"TORNADO":{
+			"class":"power-card",
+			"en":"The hand cards of all players are put together, shuffled and one at a time newly distributed by the player of the Black Card.",
+			"de":"Die Handkarten aller Spieler werden zusammengelegt, neu gemischt und vom Urheber möglichst gleichmässig der Reihe nach neu verteilt.",
+			"fr":"Toutes les cartes des joueurs sont collectées, mélangées et redistribuées à parts égales par le joueur ayant tiré la carte Tornado.",
+			"it":"Il giocatore che ha tirato questa carta raccoglie le carte di tutti i giocatori, le mescola e le ridistribuisce a rotazione nel modo più equo possibile."
+		}
+	},
+	{
+		"TRUST FALL":{
+			"class":"power-card",
+			"en":"Every player has to choose in turn a fellow player who has to give him/her two cards from his hand.",
+			"de":"Die Spieler*innen wählen der Reihe nach eine beliebige Person, die ihnen zwei Karten schenken muss.",
+			"fr":"Les joueurs choisissent chacun leur tour un autre joueur de leur choix qui doit leur offrir deux cartes.",
+			"it":"-"
+		}
+	},
+	{
+		"TSUNAMI":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Die erste Person in Spielrichtung legt eine belie bige Karte offen vor sich ab. Die nächste Person muss nun eine beliebige Karte mit einem gleich hohen oder höheren Punktewert vor sich ablegen. Dieser Vorgang wird so lange wiederholt, bis jemand keine passende Karte mehr spielen kann. Diese Person muss alle abgelegten Karten auf die Hand nehmen.",
+			"fr":"-",
+			"it":"I giocatori scelgono a turno una persona a piacere che deve regalargli due carte."
+		}
+	},
+	{
+		"VANDALISM":{
+			"class":"power-card",
+			"en":"Every player has to dispose of every card (Numeral and Special Cards) of the last played colour. Important: If no colour has been played so far, the event is ineffective.",
+			"de":"Alle Spieler müssen von der zuletzt gespielten Farbenkarte alle gleichfarbigen Handkarten abwerfen (sowohl Zahl- als auch Spezialkarten). Ausnahme: Sofern noch keine Farbe gespielt wurde, ist das Ereignis wirkungslos.",
+			"fr":"Tous les joueurs doivent se débarrasser de toutes leurs cartes étant de la même couleur que la dernière carte jouée (cartes numérotés et cartes spéciales). Important: si aucune couleur n’a encore été jouée, cette carte Événement n’a aucun effet.",
+			"it":"Tutti i giocatori devono calare tutte le carte che hanno lo stesso colore della carta giocata per ultima (sia carte numerate che carte speciali). Eccezione: se non è stato giocato ancora alcun colore, l’evento non ha nessun effetto."
+		}
+	},
+	{
+		"ALL DRAW ONE":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird vor dem Handkarten-Effekt ausgeführt. Alle Mitspielenden müssen eine Karte vom Nachziehstapel ziehen. Wichtig: Die Person, die «All Draw One» aktiviert hat, ist von diesem Effekt nicht betroffen.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"ANTI COUNTER":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird vor dem Handkarten-Effekt ausgeführt. Der Effekt einer Spezialkarte, die zusammen mit «Anti Counter» gespielt wird, kann nicht mit «Counterattack» abgewehrt werden.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"BLACK WISH":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird nach dem Handkarten-Effekt ausgeführt. Es wird Schwarz als Farbe gewünscht. Die gespielte Handkarte kann nur von einer belie bigen Schwarzen Karte gedeckt oder mit einem anderen Farb- oder Zahlenwunsch überschrieben werden. Wichtig: Sobald die Karte gedeckt oder überschrieben wurde, gelten wieder die normalen Spielregeln.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"COLOUR BLOCKADE":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird nach dem Handkarten-Effekt ausgeführt. Wer «Colour Blockade» aktiviert, wählt eine Farbe. Diese darf nun so lange nicht mehr bedient werden, bis die Person, die «Colour Blockade» aktiviert hat, ihren nächsten Zug beendet hat. Aussetzen zählt auch als Spielzug. Wichtig: Dieser Effekt gilt für alle. Somit darf die Person, welche diese Powerkarte aktiviert hat, die blockierte Farbe in ihrem nächsten Zug ebenfalls nicht bedienen.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"LOOPING":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird nach dem Handkarten-Effekt ausgeführt. Sobald die Person, die «Looping» aktiviert hat, ihren Zug beendet, geht es in die andere Spielrichtung weiter. Sobald die Person, die «Looping» aktiviert hat, ihren nächsten Spielzug beendet hat, dreht die Spielrichtung erneut. Wichtig: Aussetzen zählt auch als Spielzug.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"NUMBER WISH":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird nach dem Handkarten-Effekt ausgeführt. Wer «Number Wish» aktiviert, wünscht sich eine Zahl. Wichtig: «Number Wish» überschreibt bestehen de Farb- oder Zahlenwünsche.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"OPEN HANDS":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird vor dem Handkarten-Effekt ausgeführt. Alle Mitspielenden müssen so lange mit offenen Handkarten spielen, bis die Person, die «Open Hands» aktiviert hat, wieder zum Zug kommt. Aussetzen zählt auch als Spielzug. Wichtig: Die Person, die «Open Hands» aktiviert hat, ist von diesem Effekt nicht betroffen.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"RANDOM CHANCE":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird nach dem Handkarten-Effekt ausgeführt. Wer «Random Chance» aktiviert, spielt eine zusätzliche Handkarte. Die zusätzliche Karte kann beliebig gewählt werden und muss nicht auf die bereits liegende Karte passen. Das Spiel geht mit dieser zusätzlichen Karte weiter. Wichtig: «Curse» darf nicht gespielt werden. «Fuck You» und «The End» dürfen nur gespielt werden, wenn ihre Bedingungen gemäss Regeln erfüllt sind.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"RECYCLING":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird nach dem Handkarten-Effekt ausgeführt. Die soeben gespielte Handkarte muss wieder auf die Hand genommen werden. Die Person, die «Recycling» aktiviert hat, bestimmt von wem. Man kann die Karte auch selbst wieder aufnehmen. Wichtig: Das Spiel geht weiter, als ob die Handkarte nicht gespielt worden wäre. Allfällige Farb- oder Zahlenwünsche der Handkarte bleiben aber bestehen.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"SPECIAL CHARGE":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird vor dem Handkarten-Effekt ausgeführt. Wer «Special Charge» aktiviert, wählt einen Mitspielenden aus. Diese Person muss für jede Spezialkarte auf der eigenen Hand eine Karte vom Nachziehstapel ziehen.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"SPECIAL SEAL":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird vor dem Handkarten-Effekt ausgeführt. Alle Spieler*innen dürfen so lange keine Spezialkarten spielen, bis die Person, die «Special Seal» aktiviert hat, wieder zum Zug kommt. Aussetzen zählt auch als Spielzug. Wichtig: Da der Effekt dieser Powerkarte vor dem Handkarten-Effekt ausgeführt wird, kann sie nicht zusammen mit einer Spezialkarte aktiviert werden.",
+			"fr":"-",
+			"it":"-"
+		}
+	},
+	{
+		"TROUBLECHARGER":{
+			"class":"power-card",
+			"en":"-",
+			"de":"Wird nach dem Handkarten-Effekt ausgeführt. Wer «Troublecharger» aktiviert, löst am Ende des eigenen Spielzuges ein Ereignis aus. Wichtig: Wenn diese Karte in Kombination mit «Troublemaker» oder einer Schwarzen Karte akti viert wird, werden der Reihe nach 2 Ereignisse ausgelöst.",
+			"fr":"-",
+			"it":"-"
+		}
+	}
+]
