@@ -1,0 +1,21 @@
+{
+  "name": "Frantic Rules",
+  "short_name": "Frantic Rules",
+  "description": "Quickly browse the rules of the Frantic card game: https://rulefactory.ch/frantic/ competition.",
+  "icons": [
+    {
+      "src": "icons/frantic-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/frantic.svg",
+      "type": "image/svg",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/frantic_rules.html",
+  "display": "fullscreen",
+  "theme_color": "white",
+  "background_color": "black"
+}
